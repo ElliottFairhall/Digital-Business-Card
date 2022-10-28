@@ -1,0 +1,22 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Fairhall;Elliott;;;
+FN:Elliott Fairhall
+ORG:
+ADR;TYPE=WORK:
+TITLE:Data Engineer | Data Analysis | Agile Thinking
+TEL;TYPE=CELL:07850379032
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:07850379032
+EMAIL;TYPE=WORK:guy.fairhall@gmail.com
+URL;TYPE=Digital Business Card:
+URL:https://elliottfairhall.github.io/portfolio/
+URL;TYPE=Website:https://elliottfairhall.github.io/portfolio/
+URL;TYPE=GitHub:https://github.com/ElliottFairhall
+URL;TYPE=LinkedIn:https://linkedin.com/in/elliott-guy-fairhall-mih-666945105/
+URL;TYPE=Behance:https://behance.net/Elliott Fairhall
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+UID:EnBizCard-100872998
+END:VCARD
